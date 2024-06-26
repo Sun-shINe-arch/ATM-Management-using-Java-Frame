@@ -4,3 +4,4 @@ If you are already a customer of the bank then you can use all the services prov
 The services provided by the bank are (Transfer of money),(Closing the account).
 The other services are Balance enquiry,Withdrawal, Deposit of money.
 Mysql is used to save all the data about the customer and customer related queries.
+![Screenshot 2024-06-26 165658](https://github.com/Sun-shINe-arch/Bank-Management-using-Java-Frame/assets/40921219/1ddda5e2-8318-416a-80ba-c5509f1d2741)
